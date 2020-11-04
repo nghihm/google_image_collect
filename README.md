@@ -1,5 +1,5 @@
 # Introduction
-This directory contains google image scraping and from pyimagesearch https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/
+This directory contains download image from url code and js_console.js from pyimagesearch https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/
 
 # Requirements
 Python 3.6 or later with all lib in requirement.txt
