@@ -5,7 +5,7 @@ This directory contains google image scraping and from pyimagesearch https://www
 Python 3.6 or later with all lib in requirement.txt
 
 # Install
-pip install -r requirement.txt
+pip install -r requirements.txt
 
 # Use
 1. Install/update Chrome: https://www.google.com/chrome/
